@@ -7,9 +7,9 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_25.5.2](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_25.5.2_x86_64_all_sdk_22.03.7.run) |2025-05-05|
-| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_25.4.22](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_25.4.22_x86_64_all_sdk_22.03.7.run) |2025-04-22|
-| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_189](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_189_x86_64_all_sdk_22.03.7.run) |2025-03-14|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_25.5.8](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_25.5.8_x86_64_all_sdk_22.03.7.run) |2025-05-09|
+| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_25.5.7](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_25.5.7_x86_64_all_sdk_22.03.7.run) |2025-05-08|
+| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_189](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_189_x86_64_all_sdk_22.03.7.run) |2025-05-12|
 | [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.079](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.079+x86_64_core.run) |2025-03-14|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
 * 不推荐passwall系列和ssr-plus一同安装，因为部分软件包可能存在冲突影响使用
