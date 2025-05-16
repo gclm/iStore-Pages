@@ -24,7 +24,7 @@
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
 | [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/adguardhome.run) |2024-06-30|
-| [MosDNS](https://github.com/sbwml/luci-app-mosdns) | DNS 转发/分流器 | [mosdns_5.3.3-3](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/mosdns_5.3.3-3_aarch64_a53_luci_1.6.8_all.run) |2024-12-17|
+| [MosDNS](https://github.com/sbwml/luci-app-mosdns) | DNS 转发/分流器 | [mosdns_5.3.3-4](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/mosdns_5.3.3-4_aarch64_a53_luci_1.6.11_all.run) |2025-05-16|
 | [UnblockNeteaseMusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) | 解锁网易云灰色歌曲 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/unblockneteasemusic.run) |2024-12-24|
 | OpenVPN | OpenVPN客户端 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/OpenVPN_20211018.run) |N/A|
 | OpenVPN-Server | OpenVPN服务端 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/OpenVPN-Server_a53.run) |N/A|
